@@ -16,3 +16,11 @@ Boilerplate to start a ReactJS and Redux project.
 `npm install -g serve` (if not yet installed)
 
 `serve -s build`
+
+### Related tutorial
+
+<https://www.youtube.com/watch?v=OSSpVLpuVWA&t>
+
+### Redux DevTools for Chrome
+
+<https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd>
