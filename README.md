@@ -1,4 +1,4 @@
-# React Boilerplate
+# React and Redux Boilerplate
 Boilerplate to start a ReactJS and Redux project.
 
 
