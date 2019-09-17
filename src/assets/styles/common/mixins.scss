@@ -1,0 +1,10 @@
+@mixin vertical-align($top: 50%, $translateY: -50%) {
+	position: absolute;
+	top: $top;
+	transform: translateY($translateY);
+}
+
+// Transition
+@mixin transition($target: all, $duration: 0.25) {
+	transition: $target $duration + s ease-out;
+}
