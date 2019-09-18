@@ -25,7 +25,7 @@ class App extends Component {
 
     render() {
         return (
-            <div class="dialogue">
+            <div className="dialogue">
                 <div>
                     <p>&ndash; Now... Say my name.</p>
                     <p>&ndash; <input onChange={this.onUpdateUser} value={this.props.user} />?</p>

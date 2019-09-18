@@ -84,8 +84,8 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-            title: `React boilerplate ${process.env.NODE_ENV !== 'production' ? ' development' : ' production'}`,
-            description: 'Boilerplate to start a basic ReactJS project.',
+            title: `React and Redux boilerplate ${process.env.NODE_ENV !== 'production' ? ' development' : ' production'}`,
+            description: 'Boilerplate to start a ReactJS and Redux project.',
             template: './src/index.html',
             inject: true,
         }),
